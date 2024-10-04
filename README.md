@@ -14,3 +14,5 @@ But Speakeasy can do serious work, too! I used it to help me prototype:
 * **SASS: Semi-automated AI Safety Scientist.** ([more notes](https://blog.ncase.me/research-notes-oct-2024/#project_2), also see `persuade.js`) First, I replicated a former MATS alum's work, showing that GPT-3.5 can infer your demographics (gender/race/etc) from *just a small non-personal essay*. Then, I used Speakeasy to *automatically generate & test* causal hypotheses on what features in one's writing style lets GPT-3.5 do that. (Concept-based black-box interp)
 
 So those are the three code files in this repo. This repo does *not* contain the code for Speakeasy, coz I can't make "unlisted" repos, and c'mon, I'm still working on it and it's my special premature baby, gimme a break
+
+**P.S:** Oh, also in the code it's called "Avocado" instead of Speakeasy because... well, I was hungry when I gave it a placeholder name.
