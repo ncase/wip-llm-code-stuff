@@ -1,4 +1,4 @@
-## This repo only has code samples, they can't be run by themselves
+## This repo only has code samples, it can't be run by itself
 
 I'm putting this code up so that MATS mentors can see what code I've written using LLMs. However, it's not possible to create "unlisted" GitHub repos, and I don't want *ALL* my code to be online yet, so this repo only contains *some* of my LLM code.
 
